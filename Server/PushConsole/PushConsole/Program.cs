@@ -20,11 +20,11 @@ namespace PushConsole
             {
                 //location to the google-service.json
                 // Project Settings -> Service Account -> Generate new key
-                Credential = GoogleCredential.FromFile(@"C:\Users\MikevanNieuwburg\Downloads\service-account-file.json"),
+                Credential = GoogleCredential.FromFile(@"LOCATION TO \service-account-file.json"),
             });
 
             //Token for the device that will receive the notifications
-            var registrationToken = "eSbIVp1TH87jlSwF_tQEVx:APA91bF6uiON48UXG-93TcjIzqbVO2YOsrlnrDnP9uCUe4Cv-PtKSOVIfSiSGa_Uv0W9PNBXeuo-BJv24qwTlgV0C5Rjogx33M89fHxwaOm6oc3HQN2-_FbVWOQ2cofu7vvrc8MIL3yD";
+            var registrationToken = "";
 
             for (int i = 0; i < 7000; i++)
             {
