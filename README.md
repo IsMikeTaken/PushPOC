@@ -6,8 +6,8 @@ Steps on how to setup the firebase:
  1. Open the [Firebase Console](https://console.firebase.google.com/)
  2. Click on add project.
  3. Give it any name desired to describe the project.
- 4. Enable analytics*
- 5. Select your analytics account*
+ 4. Enable analytics* (Optional)
+ 5. Select your analytics account* (Optional)
  6. Wait and Continue.
  7. Select the android app on the dashboard![image failed to load, Select the android app on the dashboard](https://i.imgur.com/HqRISIS.png)
  8. fill in all fields from the first step![image failed to load,fill in all fields from the first step](https://i.imgur.com/yn2y7Es.png)
